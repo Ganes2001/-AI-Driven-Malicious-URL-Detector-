@@ -6,7 +6,7 @@ Follow these steps to set up the project on your local machine:
 
 Bash
 
-git clone [https://github.com/aniketpatil-sys/CyberShield-Pro.git](https://github.com/aniketpatil-sys/CyberShield-Pro.git)
+git clone https://github.com/Ganes2001/-AI-Driven-Malicious-URL-Detector-.git
 
 cd CyberShield-Pro
 
